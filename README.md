@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UC2_K0NXYhylhtiE7nCgQw6g)
+[![YouTube Badge](img)](https://www.youtube.com/channel/UC2_K0NXYhylhtiE7nCgQw6g)
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abhishek--01629954/)](https://www.linkedin.com/in/abhishek-yadav-3bb559248/)
 [![Website Badge]()
 [![Website Badge]()
